@@ -62,3 +62,4 @@ Thanks to the people who provided great examples:
 https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
 
 https://github.com/thechutrain/mern-passport
+# simple-mern-passport
